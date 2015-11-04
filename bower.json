@@ -1,0 +1,18 @@
+{
+  "name": "bsasstrial",
+  "version": "0.0.0",
+  "authors": [
+    "ninjacoder <msschambach@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
